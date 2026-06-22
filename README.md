@@ -1,10 +1,10 @@
 **E-Commerce Website**
 
-📌 Project Overview
+**📌 Project Overview**
 
 This is a responsive E-Commerce Website developed using HTML, CSS, and JavaScript. The website provides a modern shopping experience with product listings, shopping cart functionality, and an attractive user interface.
 
-🚀 Features
+**🚀 Features**
 
 Responsive Design
 Product Listing Page
@@ -17,19 +17,19 @@ Category Filtering
 Modern User Interface
 Mobile Friendly Design
 
-🛠️ Technologies Used
+**🛠️ Technologies Used**
 
 HTML5
 CSS3
 JavaScript (ES6)
 
-💻 Installation
+**💻 Installation**
 
 Clone the repository
 Open the project folder
 Run index.html in your browser
 
-🎯 Future Enhancements
+**🎯 Future Enhancements**
 
 User Authentication
 Payment Gateway Integration
